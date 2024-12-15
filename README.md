@@ -1,7 +1,8 @@
 # 论文投稿时间选择器
 这是一个一个基于投稿时间、期刊政策和文本因素的论文接受率评分模型来选择投稿的良辰吉日。
 2025年的投稿评分已预先计算完成,可在 [don-yin.uk/submission](https://don-yin.uk/submission) 查看。
-For [English](README-en.md).
+
+For English see [Here](README-en.md).
 
 ## 考虑的影响因素
 | 研究            | 影响                             |
