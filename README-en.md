@@ -1,4 +1,4 @@
-# Paper Submission Timer
+# When-to-Submit
 This code simulates a manuscript acceptance scoring model reflecting various studies on submission timing, editorial policies, and textual factors.
 The submission scores for the year 2025 are precalculated and available at [don-yin.uk/submission](https://don-yin.uk/submission).
 
@@ -47,4 +47,4 @@ The submission scores for the year 2025 are precalculated and available at [don-
 
 # Note
 Please cite as:
-Yin, D. (2024). Paper Submission Timer. GitHub repository. https://github.com/don-yin/submission-timer
+Yin, D. (2024). When-to-Submit. GitHub repository. https://github.com/don-yin/submission-timer
