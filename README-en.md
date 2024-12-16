@@ -46,5 +46,4 @@ The submission scores for the year 2025 are precalculated and available at [don-
 9. Sweedler, J. V. (2020). Strange advice for authors: Submit your manuscript with a short title on a weekday. *Analytical Chemistry*, *92*(3), 2351-2352. https://doi.org/10.1021/acs.analchem.0c00223
 
 # Note
-Please cite as:
-Yin, D. (2024). When-to-Submit. GitHub repository. https://github.com/don-yin/submission-timer
+Please refer as: Yin, D. (2024). When-to-Submit. GitHub repository. https://github.com/don-yin/submission-timer
